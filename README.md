@@ -52,21 +52,4 @@ Companies across all industries often rely on subscription products as their mai
 * The Recall and Precision values are moderate, indicating that the model is not performing poorly or particularly well in terms of correctly identifying positive cases and minimizing false positives. 
 * The F1 score combines Recall and Precision into a single metric, and the value of 0.68 indicates that the model is performing moderately well in this respect. Finally, the AUC of 0.71 is also moderate, indicating that the model's predictions are somewhat better than random. 
 
-## 🚀 About Me
 
-
-🔭 I’m currently working on Data Science
-
-🌱 I’m currently learning Machine Learning
-
-📫 How to reach me anilcogalan@outlook.com
-
-💬 Ask me about Data Science
-
-⚡I adore camping
-
-🌐 Socials:
-
-🔗 LinkedIn : https://www.linkedin.com/in/anilcogalan/ 
-
-🔗 Medium : https://medium.com/@anilcogalan
